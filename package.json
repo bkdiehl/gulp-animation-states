@@ -1,0 +1,30 @@
+{
+  "name": "gulp-animation-states",
+  "version": "1.0.0",
+  "description": "gulp plugin for combining svg and js files into a master js file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkdiehl/gulp-animation-states.git"
+  },
+  "keywords": [
+    "animation-states",
+    "svg",
+    "animation",
+    "gulpplugin"
+  ],
+  "author": "Briant Diehl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkdiehl/gulp-animation-states/issues"
+  },
+  "homepage": "https://github.com/bkdiehl/gulp-animation-states#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "path": "^0.12.7",
+    "through2": "^2.0.3"
+  }
+}
