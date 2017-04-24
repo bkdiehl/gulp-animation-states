@@ -41,4 +41,4 @@ gulp.task('svg', function() {
     ]
 }
 </pre>
-<p>The plugin will automatically include the "selector" and "svg" keys/properties needed to run snap-animation-states.js  Just make sure your the rest of your schema matches the rest of the <a href="https://bkdiehl.github.io/">snap-animation-states-schema</a></p>
+<p>The plugin will automatically include the "selector" and "svg" keys/properties needed to run snap-animation-states.js  Just make sure your the rest of your schema matches the rest of the <a href="https://bkdiehl.github.io/">snap-animation-states-schema</a>.  For examples of files and their output, view the content folder above.</p>
