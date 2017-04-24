@@ -24,17 +24,16 @@ String.prototype.toCamelCase = function() {
 var	PluginError = gutil.PluginError;
 var PLUGIN_NAME = 'gulp-animation-states';
 
-function statesBuilder(dir, bool, options) {
+function statesBuilder(bool, options) {
 	return through.obj(function(file, encoding, cb) {
 
 		var fileName,
 			fileContents,
 			selector,
 			match = {},
-			contents;
+			contents,
+			dir = path.dirname(file.path) + '/';
 
-		if(dir === undefined || dir === null) dir = path.dirname(file.path) + '/';
-		
 		//check if user wants to initiate snap-animation-states plugin automatically
 		if(bool === undefined || bool == null) bool = false;
 
