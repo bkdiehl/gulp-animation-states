@@ -16,7 +16,7 @@ gulp.task('svg', function() {
 </pre>
 <p>Set the optional bool to true if you want the gulpfile to combine your svg and js files into variables without calling the snap-animation-states plugin.</p>
 <h3>SVG files</h3>
-<p>No special formatting needed. Just place your svg files in a folder together and give them the name you want to call them by in snap-animation-states.js</p>
+<p>No special formatting needed. Just place your svg files in a folder together and give the file a name you want to call it by in snap-animation-states.js</p>
 <h3>JS files</h3>
 <p>Make sure you give them the same name as their corresponding svg file.  The gulp plugin cannot compare and combine the files if they do not have the same name.  The file would be formatted like this:</p>
 <pre>
