@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+	<path d="M17.098,23.808L36.652,10.992L36.652,54.008L17.066,41.211L17.066,41.192L4.316,41.192L4.316,23.808L17.098,23.808Z"/>
+	<path class="wave-line-1" d="M41.134,26.272C43.277,27.521 44.718,29.843 44.718,32.499C44.718,35.157 43.275,37.48 41.13,38.728" style="fill:none;stroke:#000;stroke-width:4px;"/>
+	<path class="wave-line-2" d="M45.155,19.481C49.633,22.091 52.645,26.945 52.645,32.497C52.645,38.053 49.629,42.91 45.146,45.519" style="fill:none;stroke:#000;stroke-width:4px;"/>
+	<path class="wave-line-3" d="M49.21,12.557C56.07,16.555 60.684,23.991 60.684,32.496C60.684,41.007 56.063,48.447 49.195,52.443" style="fill:none;stroke:#000;stroke-width:4px;"/>
+</svg>

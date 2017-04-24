@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+	<g class="globe">
+		<circle class="circle" cx="32.5" cy="32.5" r="29" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
+		<path class="horizontal" d="M3.5,32.5L61.5,32.5" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
+		<path class="vertical-right" d="M32.5,3.5L32.501,3.501C41.534,10.408 46.833,21.129 46.833,32.5C46.833,43.871 41.534,54.592 32.501,61.499L32.5,61.5" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
+		<path class="vertical-left" d="M32.5,3.5C32.5,3.5 32.499,3.5 32.498,3.501C23.465,10.408 18.167,21.129 18.167,32.5C18.167,43.871 23.465,54.592 32.498,61.499C32.499,61.5 32.5,61.5 32.5,61.5" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
+		<path class="vertical" d="M32.5,61.5L32.5,3.5" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
+		<path class="horizontal-bottom" d="M11.709,52.326C17.273,47.366 24.467,44.437 32.5,44.437C40.466,44.437 47.744,47.44 53.291,52.326" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
+		<path class="horizontal-top" d="M11.709,12.436C17.273,17.395 24.467,20.325 32.5,20.325C40.466,20.325 47.744,17.322 53.291,12.436" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
+	</g>
+</svg>

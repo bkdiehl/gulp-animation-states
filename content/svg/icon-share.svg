@@ -1,0 +1,17 @@
+<svg width="100%" height="100%" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+	<circle cx="32.5" cy="32.5" r="32"/>
+	<circle class="left-upper-circle" cx="11.801" cy="26.939" r="3.5" style="fill:#fff;opacity:0"/>
+	<circle class="left-lower-circle" cx="11.801" cy="42.556" r="3.5" style="fill:#fff;opacity:0"/>
+	<path class="left" d="M29.579,32.516L20.579,32.5L14.268,28.502L20.579,32.5L13.579,40.576" style="fill:none;stroke:#fff;stroke-width:1.7px;stroke-linecap:butt;stroke-dashoffset:1000; stroke-dasharray:1000, 1000;"/>
+	<path class="top-line" d="M30.967,30.021L24.257,19.105L24.271,19.097C22.198,20.388 19.511,18.465 20.064,16.086C20.146,15.736 20.295,15.399 20.503,15.106C20.72,14.798 20.991,14.542 21.311,14.343C21.631,14.144 21.98,14.014 22.352,13.954C22.707,13.897 23.075,13.912 23.425,13.993C25.805,14.547 26.344,17.806 24.271,19.097" style="fill:none;stroke:#fff;stroke-width:1.7px;stroke-dashoffset:1000; stroke-dasharray:1000, 1000;"/>	
+	<path class="bottom-line" d="M32.468,36L32.468,44.076L32.468,44.066C33.074,44.066 33.661,44.185 34.219,44.42C34.751,44.644 35.241,44.976 35.649,45.385C38.425,48.161 36.393,53.066 32.468,53.066C28.543,53.066 26.511,48.161 29.287,45.385C29.695,44.976 30.185,44.644 30.717,44.42C31.275,44.185 31.862,44.066 32.468,44.066" style="fill:none;stroke:#fff;stroke-width:1.7px;stroke-dashoffset:1000; stroke-dasharray:1000, 1000;"/>
+	<circle class="right-upper-branch-circle" cx="40" cy="13.22" r="3.5" style="fill:#fff;opacity:0"/>	
+	<path class="right-upper-branch" d="M45.998,21.196C43.207,23.292 44.195,27.857 47.629,28.59C48.006,28.671 48.399,28.699 48.784,28.672C49.659,28.611 50.276,28.34 50.994,27.849C51.413,27.563 51.839,27.05 52.092,26.616C53.906,23.507 50.981,19.611 47.489,20.486C46.946,20.622 46.446,20.86 45.998,21.196L41.015,14.571" style="fill:none;stroke:#fff;stroke-width:1.7px;stroke-dashoffset:1000; stroke-dasharray:1000, 1000;"/>
+	<g class="share-icon-main">
+		<path class="right-upper" d="M19.713,29.611L38.287,20.326" style="fill:none;stroke:#fff;stroke-width:2.92px;"/>
+		<circle class="right-upper-circle" cx="44.063" cy="17.437" r="7" style="fill:#fff;"/>
+		<path class="right-lower" d="M19.713,35.388L38.287,44.675" style="fill:none;stroke:#fff;stroke-width:2.92px;"/>
+		<circle class="right-lower-circle" cx="44.063" cy="47.563" r="7" style="fill:#fff;"/>
+		<circle class="center-circle" cx="13.937" cy="32.5" r="7" style="fill:#fff;"/>
+	</g>
+</svg>

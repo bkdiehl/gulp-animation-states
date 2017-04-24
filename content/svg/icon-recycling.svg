@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+	<path  class="recycling-bin-garbage" d="M69.832,0L72.685,1.938L71.595,5.074L68.069,5.074L66.979,1.938L69.832,0Z" style="stroke:#000;stroke-width:1.67px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:1.67,1.67;"/>
+	<path class="recycling-bin-lid" d="M50.5,16.589L14.5,16.589C14.5,14.768 15.977,13.291 17.798,13.291L29.593,13.291L29.593,11.848L35.407,11.848L35.407,13.218L47.202,13.275C49.026,13.284 50.5,14.765 50.5,16.589Z" style="fill-rule:nonzero;stroke:#000;stroke-width:2px;"/>
+	<path d="M48.5,62.152L16.5,62.152L14.5,20.152L50.5,20.152L48.5,62.152Z" style="stroke:#000;stroke-width:2px;"/>
+	<g>
+		<path d="M30.5,25.469L30.5,57.469C30.5,59.399 34.5,59.403 34.5,57.469L34.5,25.469C34.5,23.539 30.5,23.535 30.5,25.469Z" style="fill:#000;"/>
+		<path d="M41.902,25.41L39.113,57.288C38.945,59.211 42.929,59.563 43.098,57.637L45.887,25.758C46.055,23.836 42.07,23.483 41.902,25.41Z" style="fill:#000;"/>
+		<path d="M19.113,25.759L21.902,57.637C22.07,59.559 26.055,59.215 25.887,57.288L23.098,25.41C22.929,23.487 18.944,23.832 19.113,25.759Z" style="fill:#000;"/>
+	</g>
+</svg>
