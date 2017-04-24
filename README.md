@@ -11,9 +11,9 @@ var animationStates = require('gulp-animation-states'),
 
 gulp.task('svg', function() {
     return gulp.src([your, src, files])
-    .pipe(animationStates(bool:optional))
-    .pipe(concat('icons.js'))
-    .pipe(gulp.dest('yourDestination.js'));
+        .pipe(animationStates(bool:optional))
+        .pipe(concat('icons.js'))
+        .pipe(gulp.dest('yourDestination.js'));
 });
 </pre>
 <p>Set the optional bool to true if you want the gulpfile to combine your svg and js files into variables without calling the snap-animation-states plugin.</p>
