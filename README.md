@@ -7,8 +7,7 @@
 <h3>gulpfile.js</h3>
 <pre>
 var animationStates = require('gulp-animation-states'),
-    concat = require('gulp-concat');
-
+    concat = require('gulp-concat');<br>
 gulp.task('svg', function() {
     return gulp.src([your, src, files])
         .pipe(animationStates(bool:optional))
