@@ -11,7 +11,8 @@ npm install gulp-animation-states
 ### gulpfile.js
 ```js
 var animationStates = require('gulp-animation-states'),
-    concat = require('gulp-concat');<br>
+    concat = require('gulp-concat');
+    
 gulp.task('svg', function() {
     return gulp.src([your, src, files])
         .pipe(animationStates(bool:optional))
