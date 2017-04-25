@@ -52,3 +52,22 @@ Make sure you give them the same name as their corresponding svg file.  The gulp
 ```
 
 The plugin will automatically include the `selector` and `svg` keys/properties needed to run [`snap-animation-states.js`](https://github.com/bkdiehl/snap-animation-states) Just make sure your the rest of your schema matches the rest of the `snap-animation-states-schema`.  For examples of files and their output, view the content folder above.
+
+## Example
+
+### File Structure
+
+The plugin will search through your src files to find files that have the same name. Ex. icon-hamburger.js and icon-hamburger.svg
+```
+base
+|--content
+|----svg
+|------icon-folder.svg
+|------icon-folder.js
+|------icon-hamburger.svg
+|------icon-hamburger.js
+|------icon-lock.svg
+|------icon-mic.svg
+|------icon-wall.svg
+```
+It's okay to include an svg file without a js file.  That just means you want a static svg that is easily called. Ex. `<i class="icon-mic"></i>`
