@@ -1,5 +1,6 @@
 # gulp-animation-states
 A gulp plugin for consolidating svg and js files into objects readable by the snap-animation-states.js plugin
+### [Check out a Demo](https://bkdiehl.github.io/)
 
 ## Installation
 ```
